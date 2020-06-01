@@ -510,6 +510,9 @@ button {
   #wish2 {
     display: block;
   }
+  .hep,.hep1,.hep2,.hep3 {
+    background-size:auto;
+  }
 
   #explore {
     left: 40vw;
